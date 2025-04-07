@@ -816,9 +816,9 @@
         },
         {
             "id": 117,
-            "bank": "BANCO MULTIPLE BHD LEON S.A.",
+            "bank": "BANCO MULTIPLE BHD S.A.",
             "city": "SANTO DOMINGO",
-            "branch": "(HEADQUARTERS OFFICE)",
+            "branch": null,
             "swift_code": "BCBHDOSD"
         },
         {
